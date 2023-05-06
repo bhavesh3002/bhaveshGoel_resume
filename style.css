@@ -1,0 +1,33 @@
+
+
+*{
+    text-align: left;
+}
+
+body{
+    color: black;
+    background-color: #BFCCB5;
+}
+
+hr {
+    color: #B46060;
+}
+
+h2 {
+    font-family: 'Bruno Ace SC', cursive;
+    font-weight: bolder;
+}
+
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3 {
+    font-family: 'Dancing Script', cursive;
+    font-weight: bolder;
+}
+
+
+
+
